@@ -1,5 +1,7 @@
 # Infectious Diseases: A Concise Course for Public Health Practice
 
+**Interactive version:** open [`index.html`](index.html) (or the GitHub Pages site) for simulators, flip-cards and quick checks for every module.
+
 A short, practical course on what a public health professional needs to know about infectious diseases: how they work, how they spread, how we measure them, and how we stop them. Eight modules, about 2–3 hours each, with an exercise at the end of every module.
 
 **Audience:** epidemiologists, FETP trainees, surveillance officers, programme managers.
